@@ -1,0 +1,89 @@
+2024-08-09 11:34:52,656 - INFO - Model saved successfully.
+2024-08-09 11:34:52,680 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-09 11:34:52,680 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-09 11:34:52,688 - INFO -  * Restarting with watchdog (windowsapi)
+2024-08-09 11:34:54,077 - INFO - Model saved successfully.
+2024-08-09 11:34:54,086 - WARNING -  * Debugger is active!
+2024-08-09 11:34:54,086 - INFO -  * Debugger PIN: 348-548-431
+2024-08-09 11:35:07,897 - INFO - API call: /load_data
+2024-08-09 11:35:07,907 - INFO - 127.0.0.1 - - [09/Aug/2024 11:35:07] "POST /hf/load_data HTTP/1.1" 200 -
+2024-08-09 11:35:16,027 - INFO - API call: /process_data
+2024-08-09 11:35:16,027 - INFO - 127.0.0.1 - - [09/Aug/2024 11:35:16] "POST /hf/process_data HTTP/1.1" 200 -
+2024-08-09 11:35:24,718 - INFO - API call: /build_model
+2024-08-09 11:35:24,718 - INFO - 127.0.0.1 - - [09/Aug/2024 11:35:24] "POST /hf/model HTTP/1.1" 200 -
+2024-08-09 11:35:31,327 - INFO - API call: /train_model
+2024-08-09 11:35:31,343 - INFO - 127.0.0.1 - - [09/Aug/2024 11:35:31] "POST /hf/train_model HTTP/1.1" 200 -
+2024-08-09 11:35:38,392 - INFO - API call: /save_model
+2024-08-09 11:35:38,394 - INFO - Model saved successfully.
+2024-08-09 11:35:38,395 - INFO - 127.0.0.1 - - [09/Aug/2024 11:35:38] "POST /hf/save_model HTTP/1.1" 200 -
+2024-08-09 11:35:44,409 - INFO - API call: /evaluate
+2024-08-09 11:35:44,417 - INFO - 127.0.0.1 - - [09/Aug/2024 11:35:44] "POST /hf/evaluate HTTP/1.1" 200 -
+2024-08-15 12:58:08,377 - INFO - Model saved successfully.
+2024-08-15 12:58:08,401 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-08-15 12:58:08,401 - INFO - [33mPress CTRL+C to quit[0m
+2024-08-15 12:58:08,409 - INFO -  * Restarting with watchdog (windowsapi)
+2024-08-15 12:58:09,513 - INFO - Model saved successfully.
+2024-08-15 12:58:09,525 - WARNING -  * Debugger is active!
+2024-08-15 12:58:09,527 - INFO -  * Debugger PIN: 139-516-724
+2024-08-15 12:58:29,418 - INFO - API call: /load_data
+2024-08-15 12:58:29,484 - INFO - 127.0.0.1 - - [15/Aug/2024 12:58:29] "POST /hf/load_data HTTP/1.1" 200 -
+2024-08-15 12:59:23,059 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\pandas\\core\\generic.py', reloading
+2024-08-15 12:59:23,278 - INFO -  * Restarting with watchdog (windowsapi)
+2024-08-15 12:59:24,494 - INFO - Model saved successfully.
+2024-08-15 12:59:24,504 - WARNING -  * Debugger is active!
+2024-08-15 12:59:24,506 - INFO -  * Debugger PIN: 139-516-724
+2024-08-15 12:59:24,853 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\sklearn\\ensemble\\_forest.py', reloading
+2024-08-15 12:59:24,878 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\sklearn\\base.py', reloading
+2024-08-15 12:59:25,723 - INFO -  * Restarting with watchdog (windowsapi)
+2024-08-15 12:59:26,896 - INFO - Model saved successfully.
+2024-08-15 12:59:26,906 - WARNING -  * Debugger is active!
+2024-08-15 12:59:26,907 - INFO -  * Debugger PIN: 139-516-724
+2024-08-15 13:00:39,180 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\numpy\\_typing\\_generic_alias.py', reloading
+2024-08-15 13:00:40,317 - INFO -  * Restarting with watchdog (windowsapi)
+2024-08-15 13:00:41,491 - INFO - Model saved successfully.
+2024-08-15 13:00:41,499 - WARNING -  * Debugger is active!
+2024-08-15 13:00:41,499 - INFO -  * Debugger PIN: 139-516-724
+2024-08-15 13:00:50,073 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\numpy\\_typing\\_nbit.py', reloading
+2024-08-15 13:00:50,080 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\numpy\\_typing\\_shape.py', reloading
+2024-08-15 13:00:50,096 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\numpy\\_typing\\_dtype_like.py', reloading
+2024-08-15 13:00:50,118 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\PIL\\__init__.py', reloading
+2024-08-15 13:00:50,132 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\PIL\\Image.py', reloading
+2024-08-15 13:00:50,178 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\PIL\\_typing.py', reloading
+2024-08-15 13:00:50,188 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\PIL\\ImageFile.py', reloading
+2024-08-15 13:00:50,202 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\tensorflow\\__init__.py', reloading
+2024-08-15 13:00:50,259 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\keras\\api\\_v2\\__init__.py', reloading
+2024-08-15 13:00:50,264 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\keras\\api\\_v2\\keras\\__init__.py', reloading
+2024-08-15 13:00:50,431 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\keras\\api\\_v2\\keras\\models\\__init__.py', reloading
+2024-08-15 13:00:50,439 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\keras\\saving\\saving_api.py', reloading
+2024-08-15 13:00:50,447 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\tensorflow\\python\\util\\tf_export.py', reloading
+2024-08-15 13:00:50,477 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\tensorflow\\python\\util\\tf_decorator.py', reloading
+2024-08-15 13:00:50,488 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\keras\\saving\\saving_lib.py', reloading
+2024-08-15 13:00:50,675 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\keras\\saving\\serialization_lib.py', reloading
+2024-08-15 13:00:50,687 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\h5py\\__init__.py', reloading
+2024-08-15 13:00:50,703 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\h5py\\_hl\\files.py', reloading
+2024-08-15 13:00:50,719 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\h5py\\_hl\\group.py', reloading
+2024-08-15 13:00:50,976 - INFO -  * Restarting with watchdog (windowsapi)
+2024-08-15 13:00:52,253 - INFO - Model saved successfully.
+2024-08-15 13:00:52,261 - WARNING -  * Debugger is active!
+2024-08-15 13:00:52,264 - INFO -  * Debugger PIN: 139-516-724
+2024-08-15 13:00:59,865 - INFO -  * Detected change in 'c:\\Users\\vishv\\OneDrive\\Documents\\AIML_2\\Project\\QAChatbot.py', reloading
+2024-08-15 13:00:59,874 - INFO -  * Detected change in 'c:\\Users\\vishv\\OneDrive\\Documents\\AIML_2\\Project\\lung_cancer.py', reloading
+2024-08-15 13:01:00,681 - INFO -  * Restarting with watchdog (windowsapi)
+2024-08-15 13:01:01,796 - INFO - Model saved successfully.
+2024-08-15 13:01:01,799 - WARNING -  * Debugger is active!
+2024-08-15 13:01:01,808 - INFO -  * Debugger PIN: 139-516-724
+2024-08-15 13:01:04,722 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\xgboost\\__init__.py', reloading
+2024-08-15 13:01:04,738 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\xgboost\\sklearn.py', reloading
+2024-08-15 13:01:04,754 - INFO -  * Detected change in 'C:\\Users\\vishv\\OneDrive\\Documents\\AIML\\ML_Framework\\CSCN8010-Mycopy\\venv\\tensorflow_cpu\\Lib\\site-packages\\xgboost\\compat.py', reloading
+2024-08-15 13:01:05,087 - INFO -  * Restarting with watchdog (windowsapi)
+2024-08-15 13:01:06,257 - INFO - Model saved successfully.
+2024-08-15 13:01:06,265 - WARNING -  * Debugger is active!
+2024-08-15 13:01:06,265 - INFO -  * Debugger PIN: 139-516-724
+2024-08-15 13:14:33,055 - INFO -  * Detected change in 'c:\\Users\\vishv\\OneDrive\\Documents\\AIML_2\\Project\\app.py', reloading
+2024-08-15 13:14:33,123 - INFO -  * Detected change in 'c:\\Users\\vishv\\OneDrive\\Documents\\AIML_2\\Project\\app.py', reloading
+2024-08-15 13:14:33,633 - INFO -  * Restarting with watchdog (windowsapi)
+2024-08-15 13:14:34,925 - INFO - Model saved successfully.
+2024-08-15 13:14:34,933 - WARNING -  * Debugger is active!
+2024-08-15 13:14:34,941 - INFO -  * Debugger PIN: 139-516-724

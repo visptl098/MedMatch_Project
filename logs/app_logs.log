@@ -1,0 +1,42 @@
+2024-08-16 16:15:18 - __main__ - INFO - Starting application
+2024-08-16 16:15:18 - __main__ - INFO - Selected disease model: Select a model
+2024-08-16 16:15:18 - __main__ - INFO - Application shutdown
+2024-08-16 16:15:23 - __main__ - INFO - Starting application
+2024-08-16 16:15:23 - __main__ - INFO - Selected disease model: Heart Failure
+2024-08-16 16:15:23 - __main__ - INFO - Application shutdown
+2024-08-16 16:15:30 - __main__ - INFO - Starting application
+2024-08-16 16:15:30 - __main__ - INFO - Selected disease model: Heart Failure
+2024-08-16 16:15:37 - __main__ - INFO - Starting application
+2024-08-16 16:15:37 - __main__ - INFO - Selected disease model: Diabetes
+2024-08-16 16:15:37 - __main__ - INFO - Application shutdown
+2024-08-16 16:15:40 - __main__ - INFO - Starting application
+2024-08-16 16:15:40 - __main__ - INFO - Selected disease model: Diabetes
+2024-08-16 16:15:45 - __main__ - INFO - Diabetes API response status: 200
+2024-08-16 16:15:45 - __main__ - INFO - Application shutdown
+2024-08-16 16:15:53 - __main__ - INFO - Starting application
+2024-08-16 16:15:53 - __main__ - INFO - Selected disease model: Heart Failure
+2024-08-16 16:15:53 - __main__ - INFO - Application shutdown
+2024-08-16 16:15:58 - __main__ - INFO - Starting application
+2024-08-16 16:15:58 - __main__ - INFO - Selected disease model: Heart Failure
+2024-08-16 16:15:58 - __main__ - INFO - Heart Failure API response status: 200
+2024-08-16 16:15:58 - __main__ - INFO - Application shutdown
+2024-08-16 16:16:03 - __main__ - INFO - Starting application
+2024-08-16 16:16:03 - __main__ - INFO - Selected disease model: Select a model
+2024-08-16 16:16:03 - __main__ - INFO - Application shutdown
+2024-08-16 16:16:05 - __main__ - INFO - Starting application
+2024-08-16 16:16:05 - __main__ - INFO - Selected disease model: Select a model
+2024-08-16 16:16:05 - __main__ - INFO - Application shutdown
+2024-08-16 16:16:10 - __main__ - INFO - Starting application
+2024-08-16 16:16:10 - __main__ - INFO - Selected disease model: Select a model
+2024-08-16 16:16:10 - __main__ - INFO - Application shutdown
+2024-08-16 16:16:11 - __main__ - INFO - Starting application
+2024-08-16 16:16:11 - __main__ - INFO - Selected disease model: Select a model
+2024-08-16 16:16:11 - __main__ - INFO - Chatbot API Response status: 200
+2024-08-16 16:16:11 - __main__ - INFO - Application shutdown
+2024-08-16 16:16:13 - __main__ - INFO - Starting application
+2024-08-16 16:16:13 - __main__ - INFO - Selected disease model: Select a model
+2024-08-16 16:16:13 - __main__ - INFO - Application shutdown
+2024-08-16 16:16:15 - __main__ - INFO - Starting application
+2024-08-16 16:16:15 - __main__ - INFO - Selected disease model: Select a model
+2024-08-16 16:16:15 - __main__ - INFO - Calorie API response status: 200
+2024-08-16 16:16:15 - __main__ - INFO - Application shutdown
